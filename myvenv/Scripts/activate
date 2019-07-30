@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\joomi\OneDrive\바탕 화면\model\myvenv"
+VIRTUAL_ENV="C:\Users\USER-PC\Desktop\faker\myvenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
